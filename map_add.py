@@ -39,7 +39,7 @@ df[select_columns_num] = pre_df
 
 # --------------------------------------------------------------------------------------------------------------------
 # パラメータリスト
-api_key = 'AIzaSyAdFUui2C-RKcw48ApjPQJtBR_AAxIoWg4'
+api_key = 'Your API ID'
 lat, lng = df['緯度'][1], df['経度'][1]
 radius = 500
 keyword = "コンビニ"
